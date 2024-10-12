@@ -1,2 +1,2 @@
 # BanglaNewsClassifier
-A machine learning project to classify Bangla news headlines into categories like sports, jobs, etc.
+BanglaNewsClassifier is a project focused on automatically categorizing Bangla news headlines into predefined categories such as jobs, sports, politics, entertainment, and more. By using machine learning techniques and natural language processing (NLP) tailored for the Bangla language, this project aims to simplify the classification process for Bangla news articles based on their titles. The goal is to provide an efficient way to organize and analyze Bangla news content by automating the categorization of headlines.
